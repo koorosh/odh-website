@@ -1,5 +1,5 @@
 main:
-  - name: "Джерела даних"
+  - name: "Набори даних"
     url: "/sources/"
     weight: 2
   - name: "Документація"
